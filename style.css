@@ -82,45 +82,4 @@ p{
     padding: 30px
 }
     
- .carousel-images .offscreen {
-    position: absolute;
-    left: -999px;
-    top: -30px;
-    height: 2px;
-    width: 2px;
-    overflow: hidden;
-}
-
-.carousel-images a img {
-    border: none;
-}
-
-.carousel-images {
-    margin: 0 auto;
-    width: 600px;
-}
-
-.carousel-images .imagegroup {
-    text-align: center;
-    overflow: hidden;
-}
-
-.carousel-images .imagegroup {
-    width: 600px;
-    overflow: none;
-    height: 240px;
-}
-
-.carousel-images .imagegroup ul {
-    margin: 0 auto;
-    padding: 0;
-    list-style: none;
-    width: 2250px;
-}
-
-.carousel-images .imagegroup li {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    float: left;
-}
+ 
