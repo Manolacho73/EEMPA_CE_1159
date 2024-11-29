@@ -68,15 +68,15 @@ p{
   justify-items: center;
   align-items: center;  
 }
+#inscripciones iframe{
+    padding: 10px
+}
 #inscripciones_2{
   width: 100%;
   display: flex;
   flex-direction: row;
- 
   align-items: center;  
 }
-#inscripciones_2 iframe{
-    padding: 10px
-}
+
     
  
