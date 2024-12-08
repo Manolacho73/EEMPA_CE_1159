@@ -87,4 +87,8 @@ p{
  -o-background-size: cover;
  background-size: cover;
 }   
- 
+.carousel1 img{
+  width: auto;
+  height: 225px;
+  max-height: 225px; 
+}
