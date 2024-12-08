@@ -78,12 +78,10 @@ p{
   align-content: center;  
   align-items: center;  
 }
-#carousel1{
-  width: auto;
-  height: 245px;
-  max-height: 245px;
-  margin: auto;
-  display: block;
+.carousel1{
+  position: relative;
+  padding-top: 75%;
+  perspective: 100px;
   
 }   
  
