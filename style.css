@@ -71,7 +71,9 @@ p{
   align-items: center;  
 }
 #inscripciones iframe{
-    padding: 10px
+    width: 200px;
+    heigth: 300px;
+    object-fit: scale-down;
 }
 
 
