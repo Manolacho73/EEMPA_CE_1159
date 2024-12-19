@@ -63,9 +63,12 @@ p{
 }
 #inscripciones{
   width: 100%;
+  heigth: 100%;
+  padding: 10px;
+  margin: 10px 0 10px 0;
   display: flex;
   flex-direction: column;
-  justify-items: center;
+  justify-content: center;
   align-items: center;  
 }
 #inscripciones iframe{
