@@ -66,13 +66,12 @@ p{
   padding: 10px;
   display: flex;
   flex-direction: row;
+  flex-wrap: nowrap;
   justify-content: center;
   align-items: center;  
 }
 #inscripciones iframe{
-    width: 200px;
-    heigth: 520px;
-    object-fit: scale-down;
+    
 }
 
 
