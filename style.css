@@ -71,13 +71,7 @@ p{
 #inscripciones iframe{
     padding: 10px
 }
-#inscripciones_2{
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-items: center;  
-  align-items: center;  
-}
+
 
 .carousel1 img{
   width: auto;
