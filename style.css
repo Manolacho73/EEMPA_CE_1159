@@ -64,8 +64,9 @@ p{
 #inscripciones{
   width: 100%;
   display: flex;
+  flex-wrap: nowrap;
   flex-direction: row;
-  justify-items: center;
+  justify-items: space-around;
   align-items: center;  
 }
 #inscripciones iframe{
