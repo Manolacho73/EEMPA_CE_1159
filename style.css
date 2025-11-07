@@ -70,8 +70,14 @@ p{
   justify-content: space-evenly;
   align-items: center;  
 }
-#inscripciones iframe{
-    
+#inscripciones2{
+   width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  align-items: center;  
 }
 
 
