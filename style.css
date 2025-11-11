@@ -49,6 +49,7 @@ p{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: justify;
 }
 #nosotros{
     width: 100%;
