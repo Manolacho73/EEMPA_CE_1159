@@ -81,13 +81,15 @@ p{
   justify-content: space-evenly;
   align-items: center;  
 }
-.inscripciones3{
-  display: flex;
-  justify-content: center;
-  align-items: center;
+#inscripciones3{
   width: 100%;
-  heigth: 100vh;
-  }
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
 .carousel1 img{
   width: auto;
   height: 225px;
