@@ -82,10 +82,12 @@ p{
   align-items: center;  
 }
 .inscripciones3{
-   width: 100%;
-  padding: 10px;
-  margin: auto;
-}
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  heigth: 100vh;
+  }
 .carousel1 img{
   width: auto;
   height: 225px;
