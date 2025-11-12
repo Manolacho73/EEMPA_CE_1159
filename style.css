@@ -84,7 +84,10 @@ p{
 #inscripciones3{
    width: 100%;
   padding: 10px;
-  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
   align-items: center;
   }
 .carousel1 img{
