@@ -87,7 +87,7 @@ p{
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
 }
 .carousel1 img{
