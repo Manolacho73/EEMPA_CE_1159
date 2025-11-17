@@ -94,4 +94,5 @@ p{
   width: auto;
   height: 225px;
   max-height: 225px; 
+  align-items: center;
 }
