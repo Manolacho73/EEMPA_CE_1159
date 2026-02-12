@@ -90,6 +90,15 @@ p{
   justify-content: center;
   align-items: center;
 }
+#inscripciones4{
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
 .carousel1 img{
   width: auto;
   height: 225px;
