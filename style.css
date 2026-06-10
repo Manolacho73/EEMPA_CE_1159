@@ -63,6 +63,17 @@ p{
     padding: 10px;
 
 }
+#nosotros2{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+}
+#nosotros2 iframe{
+    padding: 10px;
+
+}
 #inscripciones{
   width: 100%;
   padding: 10px;
